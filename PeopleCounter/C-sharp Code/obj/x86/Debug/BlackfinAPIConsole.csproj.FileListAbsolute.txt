@@ -1,0 +1,11 @@
+C:\Program Files\Infrared Integrated Systems Ltd\Irisys BlackfinAPI (.NET)\SampleConsoleApp\bin\Debug\BlackfinAPIConsole.exe
+C:\Program Files\Infrared Integrated Systems Ltd\Irisys BlackfinAPI (.NET)\SampleConsoleApp\bin\Debug\BlackfinAPIConsole.pdb
+C:\Program Files\Infrared Integrated Systems Ltd\Irisys BlackfinAPI (.NET)\SampleConsoleApp\bin\Debug\BlackfinUser.dll
+C:\Program Files\Infrared Integrated Systems Ltd\Irisys BlackfinAPI (.NET)\SampleConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Infrared Integrated Systems Ltd\Irisys BlackfinAPI (.NET)\SampleConsoleApp\obj\x86\Debug\BlackfinAPIConsole.exe
+C:\Program Files\Infrared Integrated Systems Ltd\Irisys BlackfinAPI (.NET)\SampleConsoleApp\obj\x86\Debug\BlackfinAPIConsole.pdb
+C:\HVAC\PeopleCounter\C-sharp Code\obj\x86\Debug\BlackfinAPIConsole.exe
+C:\HVAC\PeopleCounter\C-sharp Code\obj\x86\Debug\BlackfinAPIConsole.pdb
+C:\HVAC\PeopleCounter\C-sharp Code\bin\Debug\BlackfinAPIConsole.exe
+C:\HVAC\PeopleCounter\C-sharp Code\bin\Debug\BlackfinAPIConsole.pdb
+C:\HVAC\PeopleCounter\C-sharp Code\obj\x86\Debug\BlackfinAPIConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+
+<title>KTH HVAC Project</title>
+<link rel="shortcut icon" href="favicon.ico"/>
+
+<script>
+function changeDate(str, n)
+{
+        var sub = parseInt(n) * 24 * 60 * 60 * 1000;
+
+		var dnew = new Date(+new Date - sub);
+			
+		var new_year = dnew.getFullYear().toString(10).substring(2, 4);
+	    var new_month = ("0" + (dnew.getMonth() + 1)).slice(-2);  // Months are zero based
+        var new_date = ("0" + dnew.getDate()).slice(-2);
+		
+		var new_full_1 = new_year + "-" + new_month + "-" + new_date + " " + "00:00:00";		
+		var new_full_2 = new_year + "-" + new_month + "-" + new_date + " " + "23:59:59";
+		
+		// if it is comming from TS1
+		if(str == '1')
+		{
+	        document.getElementById("TS1").value = new_full_1;
+		}
+		// if it is comming from TS2
+		else if(str == '2')
+		{
+	        document.getElementById("TS2").value = new_full_2;
+		}
+}
+
+window.onload = function()
+                {
+                   changeDate('1', 14);
+				   changeDate('2', 0);
+                };
+</script>
+
+</head>
+
+<body>
+
+<table>
+<tr> <td> <img src="kth.png" alt="Pulpit rock" height="20%"> </td> <td> <b> KTH HVAC Project </b> </td> </tr>
+</table>
+
+<br>
+
+<table border="3">
+<tr> <td>
+
+<p><b>To retrieve data from database, fill in the form and click the Submit button:</b></p>
+
+<form method="POST" action="/form.php">
+<table>
+<tr> </tr>
+<tr> <td>Include these dataTypes in motes : </td> <td> <input type="checkbox" name="motetempreture" value="T" title="Temperature" CHECKED> Temperature <input type="checkbox" name="motehumidity" value="H" title="Humidity"> Humidity  <input type="checkbox" name="motelight" value="L" title="Light"> Light <input type="checkbox" name="moteco2" value="C" title="CO2"> CO2  </td> </tr>
+<tr> <td>nodeID of mote should be : </td> <td><input type="Text" style="width:50px;" name="nodeID" value="3" title="nodeID"> </td> </tr>
+<tr> <td>Location of mote should be : </td> 
+<td>  
+<select name="motelocation" title="Location">
+  <option value=""> All </option>
+  <option value="LB201_A213">LB201_A213</option>
+  <option value="LB201_A221">LB201_A221</option>
+  <option value="LB201_A225" selected="selected">LB201_A225</option>
+  <option value="VS201_B226">VS201_B226</option>
+  <option value="LB201_B230">LB201_B230</option>
+  <option value="LB201_A231">LB201_A231</option>
+  <option value="LB201_A235">LB201_A235</option>
+</select>
+</td> 
+</tr>
+
+<tr> <td> </td> <td> <hr size="1"> </td> </tr>
+
+<tr> <td>Include these dataTypes in PLCs : </td> <td> <input type="checkbox" name="plctempreture" value="T" title="Temperature" CHECKED> Temperature <input type="checkbox" name="plcco2" value="C" title="CO2"> CO2  <input type="checkbox" name="plcmotion" value="M" title="Motion"> Motion <input type="checkbox" name="plcactuation" value="A" title="Actuation" CHECKED> Actuation </td> </tr>
+<tr> <td>Location of PLC should be : </td> 
+<td>  
+<select name="plclocation" title="Location">
+  <option value="" selected="selected"> All </option>
+  <option value="LB201_A213">LB201_A213</option>
+  <option value="LB201_A221">LB201_A221</option>
+  <option value="LB201_A225">LB201_A225</option>
+  <option value="VS201_B226">VS201_B226</option>
+  <option value="LB201_B230">LB201_B230</option>
+  <option value="LB201_A231">LB201_A231</option>
+  <option value="LB201_A235">LB201_A235</option>
+</select>
+</td> 
+</tr>
+
+<tr> <td> </td> <td> <hr size="1"> </td> </tr>
+
+<tr> <td>Include occupancy : </td> <td>  <input type="checkbox" name="pcounteroccupancy" value="O" title="Occupancy"> Occupancy </td> </tr>
+<tr> <td>Include events<sup>1</sup> : </td> <td>  <input type="checkbox" name="event" value="E" title="Events"> Events </td> </tr>
+
+<tr> <td> </td> <td> <hr size="1"> </td> </tr>
+
+<tr> <td>From (YY-MM-DD HH:MM:SS) <sup>2</sup> : </td>  <td> <input id="TS1" type="Text" name="timestamp1" title="From">  
+
+<select name="time1" ONCHANGE="changeDate('1', this.options[this.selectedIndex].value)" title="Date">
+  <option value="0"> Today </option>
+  <option value="7">Last week</option>
+  <option value="14" selected="selected">Last 2 weeks</option>
+  <option value="21">Last 3 weeks</option>
+  <option value="28">Last 4 weeks</option>
+  <option value="30">Last month</option>
+</select>
+
+</td> </tr>
+<tr> <td>To (YY-MM-DD HH:MM:SS) <sup>3</sup> :   </td>  <td> <input id="TS2" type="Text" name="timestamp2" title="To"> 
+
+<select name="time2" ONCHANGE="changeDate('2', this.options[this.selectedIndex].value)" title="To">
+  <option value="0" selected="selected"> Today </option>
+  <option value="7">Last week</option>
+  <option value="14">Last 2 weeks</option>
+  <option value="21">Last 3 weeks</option>
+  <option value="28">Last 4 weeks</option>
+  <option value="30">Last month</option>
+</select>
+
+</td> </tr>
+
+<tr> <td>  </td> </tr>
+<tr> <td>  </td>  <td align="right"> <input type="Submit" name="formSubmit" value="Submit"> </td> </tr>
+</table>
+</form>
+</td> </tr>
+</table>
+
+<br>
+
+<sup>1</sup> Events are added manually to the database (such as opening/closing window).<br>
+<sup>2</sup> Leave this field empty to ignore starting date (highly discouraged!). <br>
+<sup>3</sup> Leave this field empty to ignore ending date. <br><br>
+
+<b>Note 1:</b> Retrieving the whole data from the database can be very slow which is due to the large number of records. Try to limit your query if possible. <br>
+<b>Note 2:</b> You can use MATLAB to parse the output file. <br>
+<b>Note 3:</b> To get the current database status <a href="/report">click here</a> (It may take a while). <br>
+<b>Note 4:</b> To check the log file <a href="/log.txt">click here</a>.
+
+</body>
+</html>

@@ -1,0 +1,2944 @@
+Time: 2013-01-19 14:01:59
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53383
+                          
+Time: 2013-01-19 15:52:20
+counter.vi: datasocket error.
+                          
+Time: 2013-01-19 15:52:21
+counter.vi: datasocket error.
+                          
+Time: 2013-01-19 15:53:13
+database.vi: Error in receiving data from mote.vi
+                          
+Time: 2013-01-19 15:53:13
+counter.vi: datasocket error.
+                          
+Time: 2013-01-19 15:53:13
+counter.vi: datasocket error.
+                          
+Time: 2013-01-19 15:53:14
+database.vi: Error in receiving data from plc.vi
+                          
+Time: 2013-01-19 15:53:15
+database.vi: Error in receiving data from counter.vi
+                          
+Time: 2013-01-19 15:53:16
+mote.vi: Error in mote id (id is zero)
+                          
+Time: 2013-01-19 15:53:19
+counter.vi: datasocket error.
+                          
+Time: 2013-01-19 15:54:00
+mote.vi: Error in mote id (id is zero)
+                          
+Time: 2013-01-19 16:11:32
+mote.vi: Error in mote id (id is zero)
+                          
+Time: 2013-01-19 16:30:52
+mote.vi: Error in SF
+                          
+Time: 2013-01-19 16:32:16
+mote.vi: Error in mote id (id is zero)
+                          
+Time: 2013-01-19 16:37:33
+mote.vi: Error in SF
+                          
+Time: 2013-01-19 16:38:34
+mote.vi: Error in mote id (id is zero)
+                          
+Time: 2013-01-19 16:43:48
+mote.vi: Error in SF
+                          
+Time: 2013-01-19 16:52:00
+mote.vi: Error in SF
+                          
+Time: 2013-01-21 10:12:31
+counter.vi: change in count value.
+count values: 14, 13
+                          
+Time: 2013-01-21 10:12:40
+counter.vi: change in count value.
+count values: 15, 13
+                          
+Time: 2013-01-21 10:13:25
+counter.vi: change in count value.
+count values: 15, 14
+                          
+Time: 2013-01-21 10:13:34
+counter.vi: change in count value.
+count values: 16, 14
+                          
+Time: 2013-01-21 10:17:43
+counter.vi: change in count value.
+count values: 16, 15
+                          
+Time: 2013-01-21 10:17:47
+counter.vi: change in count value.
+count values: 16, 16                          
+
+Time: 2013-01-21 21:47:58 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-01-21 21:48:24 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-01-21 21:48:57 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-01-21 21:51:37 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-01-21 21:53:18 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-01-21 21:53:39 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-01-21 21:54:11 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-01-21 21:55:50 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-01-22 13:14:37
+counter.vi: change in count value.
+count values: 17, 16
+                          
+Time: 2013-01-22 13:14:42
+counter.vi: change in count value.
+count values: 17, 17
+                          
+Time: 2013-01-22 13:14:56
+counter.vi: change in count value.
+count values: 18, 17
+                          
+Time: 2013-01-22 13:19:35
+counter.vi: change in count value.
+count values: 18, 18
+                          
+Time: 2013-01-22 13:19:53
+counter.vi: change in count value.
+count values: 19, 18
+                          
+Time: 2013-01-22 14:31:12
+counter.vi: TCP connection error.
+                          
+Time: 2013-01-22 15:58:08
+counter.vi: change in count value.
+count values: 1, 0
+                          
+Time: 2013-01-22 16:09:56
+counter.vi: change in count value.
+count values: 2, 1
+                          
+Time: 2013-01-22 16:43:14
+counter.vi: change in count value.
+count values: 2, 1
+                          
+Time: 2013-01-22 17:00:19
+counter.vi: change in count value.
+count values: 2, 2
+                          
+Time: 2013-01-22 17:06:30
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Username does not exist!
+Remote Address: saahmad-rt-e64.eead.ee.kth.se
+Remote Port: 57603
+                          
+Time: 2013-01-22 17:10:01
+counter.vi: change in count value.
+count values: 3, 2
+                          
+Time: 2013-01-22 17:15:41
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Username does not exist!
+Remote Address: saahmad-rt-e64.eead.ee.kth.se
+Remote Port: 57792
+                          
+Time: 2013-01-22 17:16:43
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Username does not exist!
+Remote Address: saahmad-rt-e64.eead.ee.kth.se
+Remote Port: 57802
+                          
+Time: 2013-01-22 17:39:23
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Username does not exist!
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 52465
+                          
+Time: 2013-01-22 17:50:47
+counter.vi: change in count value.
+count values: 3, 3
+                          
+Time: 2013-01-22 17:50:52
+counter.vi: change in count value.
+count values: 5, 3
+                          
+Time: 2013-01-22 18:41:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 53722
+                          
+Time: 2013-01-22 18:42:20
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 53728
+                          
+Time: 2013-01-22 18:42:52
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 53731
+                          
+Time: 2013-01-22 18:43:23
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 53737
+                          
+Time: 2013-01-22 20:07:36
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 54699
+                          
+Time: 2013-01-22 20:09:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55049
+                          
+Time: 2013-01-22 20:13:25
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55780
+                          
+Time: 2013-01-22 20:15:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56173
+                          
+Time: 2013-01-22 20:16:34
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56344
+                          
+Time: 2013-01-22 20:19:36
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56883
+                          
+Time: 2013-01-22 20:24:28
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 57756
+                          
+Time: 2013-01-22 20:28:30
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51058
+                          
+Time: 2013-01-22 20:32:40
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51079
+                          
+Time: 2013-01-22 20:44:29
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51233
+                          
+Time: 2013-01-22 20:48:06
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51279
+                          
+Time: 2013-01-22 20:58:23
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51331
+                          
+Time: 2013-01-22 21:02:03
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51399
+                          
+Time: 2013-01-22 21:03:35
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51406
+                          
+Time: 2013-01-22 21:07:09
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51425
+                          
+Time: 2013-01-22 21:20:25
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51568
+                          
+Time: 2013-01-22 21:22:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 51579
+                          
+Time: 2013-01-22 21:28:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58582
+                          
+Time: 2013-01-22 21:30:42
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58586
+                          
+Time: 2013-01-22 21:33:02
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58588
+                          
+Time: 2013-01-22 21:37:25
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58590
+                          
+Time: 2013-01-22 21:38:21
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58592
+                          
+Time: 2013-01-22 21:38:52
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58594
+                          
+Time: 2013-01-22 21:40:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58596
+                          
+Time: 2013-01-22 21:47:08
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58598
+                          
+Time: 2013-01-22 21:47:24
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58600
+                          
+Time: 2013-01-22 21:47:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58604
+                          
+Time: 2013-01-22 21:48:44
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58606
+                          
+Time: 2013-01-22 21:51:05
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58610
+                          
+Time: 2013-01-22 21:52:13
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58612
+                          
+Time: 2013-01-22 21:57:50
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58617
+                          
+Time: 2013-01-22 21:58:43
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 158.130.110.247
+Remote Port: 64656
+                          
+Time: 2013-01-22 22:39:23
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53241
+                          
+Time: 2013-01-22 22:42:10
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53277
+                          
+Time: 2013-01-22 22:52:45
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53407
+                          
+Time: 2013-01-22 22:53:00
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53409
+                          
+Time: 2013-01-22 22:54:17
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53414
+                          
+Time: 2013-01-22 23:05:34
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53491
+                          
+Time: 2013-01-22 23:07:04
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53508
+                          
+Time: 2013-01-22 23:08:40
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53511
+                          
+Time: 2013-01-22 23:13:08
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53528
+                          
+Time: 2013-01-22 23:20:46
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53635
+                          
+Time: 2013-01-22 23:41:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53833
+                          
+Time: 2013-01-22 23:41:51
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 53848
+                          
+Time: 2013-01-22 23:48:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 54013
+                          
+Time: 2013-01-22 23:48:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: 213.103.190.121
+Remote Port: 54014
+                          
+Time: 2013-01-23 08:13:40
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50465
+                          
+Time: 2013-01-23 08:14:52
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50471
+                          
+Time: 2013-01-23 08:16:26
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50473
+                          
+Time: 2013-01-23 08:17:03
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50474
+                          
+Time: 2013-01-23 10:23:16
+counter.vi: change in count value.
+count values: 2, 0
+                          
+Time: 2013-01-23 10:23:48
+counter.vi: change in count value.
+count values: 2, 1
+                          
+Time: 2013-01-23 10:44:10
+counter.vi: change in count value.
+count values: 2, 2
+                          
+Time: 2013-01-23 11:05:30
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Username does not exist!
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 55944
+                          
+Time: 2013-01-23 11:06:05
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 55948
+                          
+Time: 2013-01-23 11:07:03
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 55966
+                          
+Time: 2013-01-23 14:09:24
+mote.vi: Error in SF
+                          
+Time: 2013-01-23 14:09:25
+counter.vi: datasocket error.
+                          
+Time: 2013-01-23 14:09:27
+database.vi: Error in receiving data from mote.vi
+                          
+Time: 2013-01-23 14:32:52
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58210
+                          
+Time: 2013-01-23 14:38:24
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58345
+                          
+Time: 2013-01-23 14:39:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58356
+                          
+Time: 2013-01-23 14:40:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58361
+                          
+Time: 2013-01-23 14:41:21
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58370
+                          
+Time: 2013-01-23 14:42:09
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58390
+                          
+Time: 2013-01-23 14:44:14
+counter.vi: change in count value.
+count values: 1, 2
+                          
+Time: 2013-01-23 15:05:54
+counter.vi: change in count value.
+count values: 1, 3
+                          
+Time: 2013-01-23 15:06:16
+counter.vi: change in count value.
+count values: 1, 4
+                          
+Time: 2013-01-23 15:18:58
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50013
+                          
+Time: 2013-01-23 15:20:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58924
+                          
+Time: 2013-01-23 15:20:34
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58927
+                          
+Time: 2013-01-23 15:20:54
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50017
+                          
+Time: 2013-01-23 15:21:36
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58944
+                          
+Time: 2013-01-23 15:22:20
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58957
+                          
+Time: 2013-01-23 15:22:46
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50023
+                          
+Time: 2013-01-23 15:23:22
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58964
+                          
+Time: 2013-01-23 15:24:01
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50025
+                          
+Time: 2013-01-23 15:24:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58976
+                          
+Time: 2013-01-23 15:24:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58977
+                          
+Time: 2013-01-23 15:25:16
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50026
+                          
+Time: 2013-01-23 15:25:28
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 58990
+                          
+Time: 2013-01-23 15:25:49
+counter.vi: change in count value.
+count values: 1, 5
+                          
+Time: 2013-01-23 15:25:54
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50027
+                          
+Time: 2013-01-23 15:47:17
+counter.vi: change in count value.
+count values: 2, 5
+                          
+Time: 2013-01-23 15:57:16
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 59790
+                          
+Time: 2013-01-23 15:58:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50618
+                          
+Time: 2013-01-23 15:58:40
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50621
+                          
+Time: 2013-01-23 15:58:42
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50622
+                          
+Time: 2013-01-23 15:58:43
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50623
+                          
+Time: 2013-01-23 15:59:04
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50634
+                          
+Time: 2013-01-23 15:59:27
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50635
+                          
+Time: 2013-01-23 15:59:50
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50639
+                          
+Time: 2013-01-23 16:00:15
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50640
+                          
+Time: 2013-01-23 16:02:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 50651
+                          
+Time: 2013-01-23 16:05:26
+counter.vi: change in count value.
+count values: 2, 6
+                          
+Time: 2013-01-23 16:11:00
+counter.vi: change in count value.
+count values: 3, 6
+                          
+Time: 2013-01-23 16:20:54
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60115
+                          
+Time: 2013-01-23 16:24:49
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: seas1113.wireless-pennnet.upenn.edu
+Remote Port: 56567
+                          
+Time: 2013-01-23 16:31:57
+counter.vi: change in count value.
+count values: 3, 7
+                          
+Time: 2013-01-23 16:48:34
+counter.vi: change in count value.
+count values: 4, 7
+                          
+Time: 2013-01-23 16:50:04
+counter.vi: change in count value.
+count values: 4, 8
+                          
+Time: 2013-01-23 16:50:35
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60237
+                          
+Time: 2013-01-23 16:50:41
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60271
+                          
+Time: 2013-01-23 16:51:26
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60583
+                          
+Time: 2013-01-23 16:52:18
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: seas1113.wireless-pennnet.upenn.edu
+Remote Port: 57146
+                          
+Time: 2013-01-23 16:57:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60663
+                          
+Time: 2013-01-23 16:58:45
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60674
+                          
+Time: 2013-01-23 16:58:55
+counter.vi: change in count value.
+count values: 5, 8
+                          
+Time: 2013-01-23 16:59:19
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60680
+                          
+Time: 2013-01-23 17:00:50
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: seas1113.wireless-pennnet.upenn.edu
+Remote Port: 57377
+                          
+Time: 2013-01-23 17:05:21
+counter.vi: change in count value.
+count values: 8, 10
+                          
+Time: 2013-01-23 17:05:26
+counter.vi: change in count value.
+count values: 9, 10
+                          
+Time: 2013-01-23 17:05:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60797
+                          
+Time: 2013-01-23 17:05:44
+counter.vi: change in count value.
+count values: 9, 11
+                          
+Time: 2013-01-23 17:07:23
+counter.vi: change in count value.
+count values: 10, 11
+                          
+Time: 2013-01-23 17:07:41
+counter.vi: change in count value.
+count values: 10, 12
+                          
+Time: 2013-01-23 17:11:16
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60844
+                          
+Time: 2013-01-23 17:12:35
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60863
+                          
+Time: 2013-01-23 17:12:52
+counter.vi: change in count value.
+count values: 11, 13
+                          
+Time: 2013-01-23 17:13:42
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 60873
+                          
+Time: 2013-01-23 17:16:10
+counter.vi: change in count value.
+count values: 12, 13
+                          
+Time: 2013-01-23 17:35:10
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 61176
+                          
+Time: 2013-01-23 17:35:41
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 61181
+                          
+Time: 2013-01-23 17:53:41
+counter.vi: TCP connection error.
+                          
+Time: 2013-01-23 17:59:05
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 61524
+                          
+Time: 2013-01-23 18:34:38
+counter.vi: change in count value.
+count values: 13, 16
+                          
+Time: 2013-01-23 18:36:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 62105
+                          
+Time: 2013-01-23 18:37:23
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 62109
+                          
+Time: 2013-01-23 18:39:03
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 62141
+                          
+Time: 2013-01-23 18:46:28
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 62205
+                          
+Time: 2013-01-23 18:52:57
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 62261
+                          
+Time: 2013-01-23 18:55:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-43-68.ee.kth.se
+Remote Port: 62305
+                          
+Time: 2013-01-23 19:01:48
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49903
+                          
+Time: 2013-01-23 19:08:45
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: seas1113.wireless-pennnet.upenn.edu
+Remote Port: 60258
+                          
+Time: 2013-01-23 19:13:18
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49922
+                          
+Time: 2013-01-23 19:15:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49928
+                          
+Time: 2013-01-23 19:44:48
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: seas1113.wireless-pennnet.upenn.edu
+Remote Port: 62136
+                          
+Time: 2013-01-23 19:55:47
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49950
+                          
+Time: 2013-01-23 19:59:22
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49994
+                          
+Time: 2013-01-23 20:02:24
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49996
+                          
+Time: 2013-01-23 20:56:16
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 50026
+                          
+Time: 2013-01-23 21:10:08
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 50242
+                          
+Time: 2013-01-23 21:14:44
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 51076
+                          
+Time: 2013-01-23 22:20:33
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 52773
+                          
+Time: 2013-01-23 23:06:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55588
+                          
+Time: 2013-01-23 23:09:15
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55590
+                          
+Time: 2013-01-23 23:39:49
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55600
+                          
+Time: 2013-01-23 23:44:11
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55606
+                          
+Time: 2013-01-24 06:03:24
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: s83-179-39-198.cust.tele2.se
+Remote Port: 49586
+                          
+Time: 2013-01-24 07:24:55
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55921
+                          
+Time: 2013-01-24 08:22:31
+counter.vi: change in count value.
+count values: 14, 16
+                          
+Time: 2013-01-24 08:23:38
+counter.vi: change in count value.
+count values: 14, 17
+                          
+Time: 2013-01-24 08:24:41
+counter.vi: change in count value.
+count values: 15, 17
+                          
+Time: 2013-01-24 08:24:55
+counter.vi: change in count value.
+count values: 15, 18
+                          
+Time: 2013-01-24 08:35:22
+counter.vi: change in count value.
+count values: 16, 18
+                          
+Time: 2013-01-24 08:35:27
+counter.vi: change in count value.
+count values: 19, 18
+                          
+Time: 2013-01-24 08:38:50
+counter.vi: change in count value.
+count values: 20, 20
+                          
+Time: 2013-01-24 08:38:58
+counter.vi: change in count value.
+count values: 20, 23
+                          
+Time: 2013-01-24 09:09:14
+counter.vi: change in count value.
+count values: 21, 23
+                          
+Time: 2013-01-24 09:09:18
+counter.vi: change in count value.
+count values: 22, 24
+                          
+Time: 2013-01-24 09:20:02
+counter.vi: change in count value.
+count values: 22, 25
+                          
+Time: 2013-01-24 09:23:38
+counter.vi: change in count value.
+count values: 23, 25
+                          
+Time: 2013-01-24 09:31:30
+counter.vi: change in count value.
+count values: 23, 26
+                          
+Time: 2013-01-24 09:31:35
+counter.vi: change in count value.
+count values: 24, 26
+                          
+Time: 2013-01-24 09:49:00
+counter.vi: change in count value.
+count values: 25, 26
+                          
+Time: 2013-01-24 11:18:12
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56020
+                          
+Time: 2013-01-24 11:24:39
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Username does not exist!
+Remote Address: n162-p226.kthopen.kth.se
+Remote Port: 64190
+                          
+Time: 2013-01-24 11:25:01
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: n162-p226.kthopen.kth.se
+Remote Port: 64199
+                          
+Time: 2013-01-24 11:27:56 
+Access to the web-interface. 
+IP address: 130.229.162.226 
+
+Time: 2013-01-24 11:48:16 
+Access to the web-interface. 
+IP address: 130.229.162.226 
+
+Time: 2013-01-24 11:56:36 
+Access to the web-interface. 
+IP address: 130.229.162.226 
+
+Time: 2013-01-24 13:10:46 
+Access to the web-interface. 
+IP address: 130.229.162.226 
+
+Time: 2013-01-24 13:24:58 
+Access to the web-interface. 
+IP address: 130.229.162.226 
+
+Time: 2013-01-24 14:56:37
+counter.vi: TCP connection error.
+                          
+Time: 2013-01-24 15:16:32
+mote.vi: Error in SF
+                          
+Time: 2013-01-24 15:16:33
+counter.vi: datasocket error.
+                          
+Time: 2013-01-24 15:16:36
+database.vi: Error in receiving data from mote.vi
+                          
+Time: 2013-01-24 15:44:34
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56354
+                          
+Time: 2013-01-24 15:45:51
+counter.vi: change in count value.
+count values: 27, 26
+                          
+Time: 2013-01-24 15:46:13
+counter.vi: change in count value.
+count values: 27, 27
+                          
+Time: 2013-01-24 15:46:18
+counter.vi: change in count value.
+count values: 27, 28
+                          
+Time: 2013-01-24 16:06:35
+counter.vi: change in count value.
+count values: 29, 28
+                          
+Time: 2013-01-24 16:18:15
+counter.vi: change in count value.
+count values: 29, 29
+                          
+Time: 2013-01-24 16:18:20
+counter.vi: change in count value.
+count values: 29, 30
+                          
+Time: 2013-01-24 18:00:36
+counter.vi: change in count value.
+count values: 30, 30
+                          
+Time: 2013-01-24 18:08:38
+counter.vi: change in count value.
+count values: 30, 31
+                          
+Time: 2013-01-24 18:09:37
+counter.vi: change in count value.
+count values: 31, 31
+                          
+Time: 2013-01-24 18:10:22
+counter.vi: change in count value.
+count values: 31, 32
+                          
+Time: 2013-01-24 18:14:12
+counter.vi: change in count value.
+count values: 32, 32
+                          
+Time: 2013-01-24 18:15:11
+counter.vi: change in count value.
+count values: 32, 33
+                          
+Time: 2013-01-25 10:18:30
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56563
+                          
+Time: 2013-01-25 11:00:42
+counter.vi: change in count value.
+count values: 1, 0
+                          
+Time: 2013-01-25 11:02:17
+counter.vi: change in count value.
+count values: 1, 1
+                          
+Time: 2013-01-25 12:35:18 
+Access to the web-interface. 
+IP address: 158.130.108.91 
+
+Time: 2013-01-25 13:45:23
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 59637
+                          
+Time: 2013-01-25 13:45:33
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 59639
+                          
+Time: 2013-01-25 13:45:49
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 59641
+                          
+Time: 2013-01-25 13:52:25
+counter.vi: change in count value.
+count values: 2, 2
+                          
+Time: 2013-01-25 13:54:46
+counter.vi: change in count value.
+count values: 2, 3
+                          
+Time: 2013-01-25 13:54:50
+counter.vi: change in count value.
+count values: 3, 3
+                          
+Time: 2013-01-25 13:57:41
+counter.vi: change in count value.
+count values: 3, 4
+                          
+Time: 2013-01-25 13:57:46
+counter.vi: change in count value.
+count values: 4, 4
+                          
+Time: 2013-01-25 13:59:03
+counter.vi: change in count value.
+count values: 4, 5
+                          
+Time: 2013-01-25 13:59:25
+counter.vi: change in count value.
+count values: 5, 5
+                          
+Time: 2013-01-25 13:59:39
+counter.vi: change in count value.
+count values: 5, 6
+                          
+Time: 2013-01-25 14:03:24
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 61926
+                          
+Time: 2013-01-25 14:03:50
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 62007
+                          
+Time: 2013-01-25 14:18:17
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 63589
+                          
+Time: 2013-01-25 14:37:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 65424
+                          
+Time: 2013-01-25 15:20:35
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 65467
+                          
+Time: 2013-01-25 15:20:47
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 65469
+                          
+Time: 2013-01-25 15:37:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 65491
+                          
+Time: 2013-01-25 15:47:46
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 65494
+                          
+Time: 2013-01-25 16:17:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49167
+                          
+Time: 2013-01-26 13:48:27 
+Access to the web-interface. 
+IP address: 208.54.35.185 
+
+Time: 2013-01-26 14:13:56
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49448
+                          
+Time: 2013-01-26 14:16:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49458
+                          
+Time: 2013-01-26 14:17:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49462
+                          
+Time: 2013-01-26 16:26:31
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49542
+                          
+Time: 2013-01-26 23:31:25 
+Access to the web-interface. 
+IP address: 208.54.35.255 
+
+Time: 2013-01-27 12:24:51
+database.vi: Error in database backup!
+Error: database is locked
+
+                          
+Time: 2013-01-28 11:53:39
+counter.vi: change in count value.
+count values: 8, 6
+                          
+Time: 2013-01-28 11:59:26
+counter.vi: change in count value.
+count values: 8, 8
+                          
+Time: 2013-01-28 11:59:31
+counter.vi: change in count value.
+count values: 8, 9
+                          
+Time: 2013-01-28 16:02:02
+counter.vi: change in count value.
+count values: 10, 9
+                          
+Time: 2013-01-28 16:02:06
+counter.vi: change in count value.
+count values: 11, 9
+                          
+Time: 2013-01-28 16:04:08
+counter.vi: change in count value.
+count values: 11, 10
+                          
+Time: 2013-01-28 16:04:12
+counter.vi: change in count value.
+count values: 11, 11
+                          
+Time: 2013-01-29 10:20:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 52700
+                          
+Time: 2013-01-29 10:22:31
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 53064
+                          
+Time: 2013-01-29 10:23:00
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 53151
+                          
+Time: 2013-01-29 10:31:33
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 53847
+                          
+Time: 2013-01-29 10:32:20
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 53849
+                          
+Time: 2013-01-29 10:46:55
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-50-63.ee.kth.se
+Remote Port: 64697
+                          
+Time: 2013-01-29 10:47:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-50-63.ee.kth.se
+Remote Port: 65319
+                          
+Time: 2013-01-29 10:49:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-50-63.ee.kth.se
+Remote Port: 60353
+                          
+Time: 2013-01-29 10:52:20
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-50-63.ee.kth.se
+Remote Port: 65085
+                          
+Time: 2013-01-29 11:34:56
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: dhcp-50-63.ee.kth.se
+Remote Port: 61521
+                          
+Time: 2013-01-29 13:20:05
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56876
+                          
+Time: 2013-01-29 13:23:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56881
+                          
+Time: 2013-01-29 13:24:42
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56883
+                          
+Time: 2013-01-29 13:27:03
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56893
+                          
+Time: 2013-01-29 13:28:36
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56896
+                          
+Time: 2013-01-29 13:29:08
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56898
+                          
+Time: 2013-01-29 13:32:29
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56907
+                          
+Time: 2013-01-29 13:32:44
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56909
+                          
+Time: 2013-01-29 13:35:36
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56913
+                          
+Time: 2013-01-29 13:36:05
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56915
+                          
+Time: 2013-01-29 13:36:47
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56917
+                          
+Time: 2013-01-29 13:36:50
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56919
+                          
+Time: 2013-01-29 13:36:53
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56921
+                          
+Time: 2013-01-29 13:37:12
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56923
+                          
+Time: 2013-01-29 13:37:49
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56938
+                          
+Time: 2013-01-29 13:39:04
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56949
+                          
+Time: 2013-01-29 13:40:28
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56954
+                          
+Time: 2013-01-29 13:40:33
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56956
+                          
+Time: 2013-01-29 13:40:38
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56958
+                          
+Time: 2013-01-29 13:43:27
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56961
+                          
+Time: 2013-01-29 13:44:27
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56963
+                          
+Time: 2013-01-29 13:48:04
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 56965
+                          
+Time: 2013-01-29 14:18:55
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 57031
+                          
+Time: 2013-01-29 14:19:20
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 57033
+                          
+Time: 2013-01-29 14:19:49
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 57035
+                          
+Time: 2013-01-29 17:24:02 
+Access to the web-interface. 
+IP address: 158.130.104.81 
+
+Time: 2013-01-29 17:31:55
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 61945
+                          
+Time: 2013-01-29 17:32:26
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 61947
+                          
+Time: 2013-01-30 00:54:02 
+Access to the web-interface. 
+IP address: 158.130.104.81 
+
+Time: 2013-01-30 12:13:20
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 62484
+                          
+Time: 2013-02-02 16:32:32 
+Access to the web-interface. 
+IP address: 158.130.110.128 
+
+Time: 2013-02-02 16:57:28 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:08:34 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:09:19 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:14:43 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:16:33 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:18:10 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:18:49 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:18:58 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:19:14 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:21:28 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:21:56 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:22:22 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:22:32 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:23:04 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:23:30 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:23:45 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:27:21 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:27:43 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:28:18 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:28:36 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:32:30 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:33:58 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:34:47 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:35:20 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:37:50 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:38:52 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:40:34 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 17:42:47 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-02 19:38:20 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-02 20:18:08
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 52289
+                          
+Time: 2013-02-02 20:21:02 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-03 04:18:37
+database.vi: Error in database backup!
+Error: database is locked
+
+                          
+Time: 2013-02-04 09:24:14
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 55567
+                          
+Time: 2013-02-04 14:38:08
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 57306
+                          
+Time: 2013-02-04 16:13:09
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 58738
+                          
+Time: 2013-02-04 16:36:41
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 62659
+                          
+Time: 2013-02-04 16:53:35
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 63731
+                          
+Time: 2013-02-04 17:50:30
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 63813
+                          
+Time: 2013-02-04 17:50:44
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 63815
+                          
+Time: 2013-02-04 18:44:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 63880
+                          
+Time: 2013-02-05 08:33:05
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 64105
+                          
+Time: 2013-02-06 14:26:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49503
+                          
+Time: 2013-02-06 14:26:56
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49521
+                          
+Time: 2013-02-06 20:33:37
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 49893
+                          
+Time: 2013-02-07 09:08:42
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 50113
+                          
+Time: 2013-02-10 15:43:24
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 52079
+                          
+Time: 2013-02-11 13:35:51 
+Access to the web-interface. 
+IP address: 130.237.50.211 
+
+Time: 2013-02-11 17:36:58 
+Access to the web-interface. 
+IP address: 130.237.43.53 
+
+Time: 2013-02-11 18:10:32
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 53014
+                          
+Time: 2013-02-11 18:11:36
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 53020
+                          
+Time: 2013-02-11 19:34:07
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: 
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 53159
+                          
+Time: 2013-02-11 21:56:49
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Username does not exist!
+Remote Address: 213.103.190.121
+Remote Port: 53755
+                          
+Time: 2013-02-11 21:57:28
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Password is not correct!
+Remote Address: 213.103.190.121
+Remote Port: 53765
+                          
+Time: 2013-02-11 21:57:48
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: 213.103.190.121
+Remote Port: 53776
+                          
+Time: 2013-02-11 21:58:14
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 53785
+                          
+Time: 2013-02-11 21:58:39
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Password is not correct!
+Remote Address: 213.103.190.121
+Remote Port: 53789
+                          
+Time: 2013-02-11 21:59:54
+real_control.vi: A client is trying to connect to the HVAC system.
+Error Message: Password is not correct!
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 53204
+                          
+Time: 2013-02-11 22:00:10
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 53207
+                          
+Time: 2013-02-12 00:14:35
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 53981
+                          
+Time: 2013-02-12 14:34:34 
+Access to the web-interface. 
+IP address: 130.237.43.77 
+
+Time: 2013-02-12 14:37:44 
+Access to the web-interface. 
+IP address: 130.237.50.211 
+
+Time: 2013-02-13 11:56:14 
+Access to the web-interface. 
+IP address: 130.237.50.211 
+
+Time: 2013-02-13 20:30:40 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-13 20:44:27 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-13 20:46:16 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-13 20:52:50 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-13 20:53:41 
+Access to the web-interface. 
+IP address: ::1 
+
+Time: 2013-02-14 17:20:15
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 57816
+                          
+Time: 2013-02-14 18:10:05 
+Access to the web-interface. 
+IP address: 130.237.50.217 
+
+Time: 2013-02-15 14:04:18
+mote.vi: Error in SF
+                          
+Time: 2013-02-16 12:58:51
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: HVAC-RT-990
+Remote Port: 51318
+                          
+Time: 2013-02-16 22:54:07
+database.vi: Error in database backup!
+Error: database is locked
+
+                          
+Time: 2013-02-17 18:54:26
+database.vi: Error in database backup!
+Error: database is locked
+
+                          
+Time: 2013-02-18 09:19:33 
+Access to the web-interface. 
+IP address: 130.237.43.77 
+
+Time: 2013-02-18 19:11:02 
+Access to the web-interface. 
+IP address: 130.229.190.244 
+
+Time: 2013-02-18 23:05:26 
+Access to the web-interface. 
+IP address: 213.103.210.243 
+
+Time: 2013-02-18 23:06:11 
+Access to the web-interface. 
+IP address: 213.103.210.243 
+
+Time: 2013-02-18 23:06:50 
+Access to the web-interface. 
+IP address: 213.103.210.243 
+
+Time: 2013-02-20 09:11:52 
+Access to the web-interface. 
+IP address: 130.229.190.244 
+
+Time: 2013-02-20 09:13:40 
+Access to the web-interface. 
+IP address: 130.229.190.244 
+
+Time: 2013-02-20 17:16:22 
+Access to the web-interface. 
+IP address: 71.56.95.7 
+
+Time: 2013-02-20 17:17:23 
+Access to the web-interface. 
+IP address: 130.237.50.83 
+
+Time: 2013-02-20 17:17:37 
+Access to the web-interface. 
+IP address: 71.56.95.7 
+
+Time: 2013-02-21 07:54:22
+counter.vi: change in count value.
+count values: 0, 1
+                          
+Time: 2013-02-21 13:00:08
+counter.vi: change in count value.
+count values: 1, 1
+                          
+Time: 2013-02-21 13:04:07
+counter.vi: change in count value.
+count values: 1, 2
+                          
+Time: 2013-02-21 13:38:08
+counter.vi: change in count value.
+count values: 3, 2
+                          
+Time: 2013-02-21 13:41:14
+counter.vi: change in count value.
+count values: 3, 3
+                          
+Time: 2013-02-21 13:41:18
+counter.vi: change in count value.
+count values: 4, 3
+                          
+Time: 2013-02-21 13:41:45
+counter.vi: change in count value.
+count values: 4, 5
+                          
+Time: 2013-02-21 13:44:40
+counter.vi: change in count value.
+count values: 5, 5
+                          
+Time: 2013-02-21 13:44:49
+counter.vi: change in count value.
+count values: 6, 5
+                          
+Time: 2013-02-21 13:47:35
+counter.vi: change in count value.
+count values: 6, 6
+                          
+Time: 2013-02-21 13:47:40
+counter.vi: change in count value.
+count values: 7, 8
+                          
+Time: 2013-02-21 13:47:45
+counter.vi: change in count value.
+count values: 8, 8
+                          
+Time: 2013-02-21 13:48:03
+counter.vi: change in count value.
+count values: 10, 10
+                          
+Time: 2013-02-22 09:56:08
+counter.vi: change in count value.
+count values: 18, 16
+                          
+Time: 2013-02-22 09:56:30
+counter.vi: change in count value.
+count values: 18, 17
+                          
+Time: 2013-02-22 09:57:28
+counter.vi: change in count value.
+count values: 19, 18
+                          
+Time: 2013-02-22 09:58:19
+counter.vi: change in count value.
+count values: 20, 18
+                          
+Time: 2013-02-22 09:58:28
+counter.vi: change in count value.
+count values: 20, 19
+                          
+Time: 2013-02-22 09:58:37
+counter.vi: change in count value.
+count values: 21, 19
+                          
+Time: 2013-02-22 10:01:19
+counter.vi: change in count value.
+count values: 21, 20
+                          
+Time: 2013-02-22 10:03:43
+counter.vi: change in count value.
+count values: 22, 20
+                          
+Time: 2013-02-22 10:04:55
+counter.vi: change in count value.
+count values: 22, 21
+                          
+Time: 2013-02-25 12:20:20
+counter.vi: change in count value.
+count values: 1, 0
+                          
+Time: 2013-02-25 12:20:43
+counter.vi: change in count value.
+count values: 4, 0
+                          
+Time: 2013-02-25 12:21:19
+counter.vi: change in count value.
+count values: 4, 1
+                          
+Time: 2013-02-25 12:22:26
+counter.vi: change in count value.
+count values: 6, 1
+                          
+Time: 2013-02-25 12:23:56
+counter.vi: change in count value.
+count values: 6, 2
+                          
+Time: 2013-02-25 12:24:29
+counter.vi: change in count value.
+count values: 6, 3
+                          
+Time: 2013-02-25 12:24:33
+counter.vi: change in count value.
+count values: 6, 4
+                          
+Time: 2013-02-25 12:28:14
+counter.vi: change in count value.
+count values: 8, 4
+                          
+Time: 2013-02-25 12:29:58
+counter.vi: change in count value.
+count values: 8, 5
+                          
+Time: 2013-02-25 12:30:02
+counter.vi: change in count value.
+count values: 8, 6
+                          
+Time: 2013-02-25 12:41:08
+counter.vi: change in count value.
+count values: 9, 6
+                          
+Time: 2013-02-25 12:41:49
+counter.vi: change in count value.
+count values: 9, 7
+                          
+Time: 2013-02-25 13:52:56
+weather.vi: Error in getting weather data.
+DataSocket Read in run_weather.vi
+                          
+Time: 2013-02-25 16:03:41
+counter.vi: change in count value.
+count values: 10, 7
+                          
+Time: 2013-02-25 16:06:15
+counter.vi: change in count value.
+count values: 10, 8
+                          
+Time: 2013-02-25 17:39:20
+counter.vi: change in count value.
+count values: 11, 8
+                          
+Time: 2013-02-25 18:03:44
+counter.vi: change in count value.
+count values: 11, 9
+                          
+Time: 2013-02-25 20:47:39
+counter.vi: TCP connection error.
+                          
+Time: 2013-02-26 09:40:10 
+Access to the web-interface. 
+IP address: 130.237.43.171 
+
+Time: 2013-02-26 10:12:07 
+Access to the web-interface. 
+IP address: 130.237.43.171 
+
+Time: 2013-02-26 10:44:55 
+Access to the web-interface. 
+IP address: 130.229.185.181 
+
+Time: 2013-02-26 11:00:54
+counter.vi: change in count value.
+count values: 13, 9
+                          
+Time: 2013-02-26 11:03:30 
+Access to the web-interface. 
+IP address: 130.237.50.30 
+
+Time: 2013-02-26 11:43:10
+counter.vi: change in count value.
+count values: 13, 10
+                          
+Time: 2013-02-26 11:43:15
+counter.vi: change in count value.
+count values: 14, 10
+                          
+Time: 2013-02-26 11:45:12
+counter.vi: change in count value.
+count values: 15, 11
+                          
+Time: 2013-02-26 11:46:10
+counter.vi: change in count value.
+count values: 15, 12
+                          
+Time: 2013-02-26 11:46:24
+counter.vi: change in count value.
+count values: 15, 13
+                          
+Time: 2013-02-26 11:58:43
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 63495
+                          
+Time: 2013-02-26 12:00:18
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: HVAC-RT-990.ee.kth.se
+Remote Port: 63501
+                          
+Time: 2013-02-26 12:59:10
+counter.vi: change in count value.
+count values: 16, 13
+                          
+Time: 2013-02-26 12:59:33
+counter.vi: change in count value.
+count values: 17, 13
+                          
+Time: 2013-02-26 13:00:36
+counter.vi: change in count value.
+count values: 17, 14
+                          
+Time: 2013-02-26 13:20:51
+counter.vi: change in count value.
+count values: 17, 16
+                          
+Time: 2013-02-26 13:22:13 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 13:30:36
+counter.vi: change in count value.
+count values: 18, 16
+                          
+Time: 2013-02-26 13:31:53 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 13:35:22 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 13:40:04 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 13:58:10
+counter.vi: change in count value.
+count values: 20, 16
+                          
+Time: 2013-02-26 13:58:28
+counter.vi: change in count value.
+count values: 20, 17
+                          
+Time: 2013-02-26 14:39:12
+counter.vi: change in count value.
+count values: 20, 18
+                          
+Time: 2013-02-26 14:50:06
+counter.vi: change in count value.
+count values: 20, 19
+                          
+Time: 2013-02-26 15:05:11
+counter.vi: change in count value.
+count values: 24, 19
+                          
+Time: 2013-02-26 15:09:06
+counter.vi: change in count value.
+count values: 24, 20
+                          
+Time: 2013-02-26 15:09:10
+counter.vi: change in count value.
+count values: 24, 21
+                          
+Time: 2013-02-26 15:16:16 
+Access to the web-interface. 
+IP address: 130.237.50.242 
+
+Time: 2013-02-26 15:16:57 
+Access to the web-interface. 
+IP address: 130.237.50.242 
+
+Time: 2013-02-26 15:42:40 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 15:43:18 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 15:44:11 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 15:44:59 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 15:48:16 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 15:49:06 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 15:52:31 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:06:53 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:09:39 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:11:06 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:19:41 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:20:29 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:20:38 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:26:37 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:26:51 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:28:20 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:31:19 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:32:14 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 16:34:18 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:36:55 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:37:22 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:38:18 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:38:39 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:41:53 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 16:53:44 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 17:02:30 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 17:07:20 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 17:08:44 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 17:09:37 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 17:11:12 
+Access to the web-interface. 
+IP address: 130.237.43.244 
+
+Time: 2013-02-26 17:26:33 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 17:30:41
+mote.vi: Error in SF
+                          
+Time: 2013-02-26 17:31:17 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 18:11:34 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-26 22:44:37 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-26 23:35:55 
+Access to the web-interface. 
+IP address: 130.237.50.30 
+
+Time: 2013-02-26 23:36:37 
+Access to the web-interface. 
+IP address: 130.237.50.30 
+
+Time: 2013-02-26 23:37:41 
+Access to the web-interface. 
+IP address: 130.237.50.30 
+
+Time: 2013-02-26 23:51:50 
+Access to the web-interface. 
+IP address: 130.237.50.30 
+
+Time: 2013-02-26 23:58:29 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-26 23:59:59 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-27 00:01:58 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-27 00:02:47 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-27 00:04:09 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-27 00:07:43 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-27 00:09:40 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-27 00:11:32 
+Access to the web-interface. 
+IP address: 213.103.190.121 
+
+Time: 2013-02-27 08:58:18 
+Access to the web-interface. 
+IP address: 130.237.43.77 
+
+Time: 2013-02-27 09:11:31 
+Access to the web-interface. 
+IP address: 130.237.43.77 
+
+Time: 2013-02-27 09:54:15
+counter.vi: change in count value.
+count values: 3, 1
+                          
+Time: 2013-02-27 09:54:19
+counter.vi: change in count value.
+count values: 4, 1
+                          
+Time: 2013-02-27 09:55:59
+counter.vi: change in count value.
+count values: 5, 3
+                          
+Time: 2013-02-27 09:56:03
+counter.vi: change in count value.
+count values: 6, 3
+                          
+Time: 2013-02-27 10:06:34
+counter.vi: change in count value.
+count values: 6, 5
+                          
+Time: 2013-02-27 10:06:39
+counter.vi: change in count value.
+count values: 7, 5
+                          
+Time: 2013-02-27 10:06:48
+counter.vi: change in count value.
+count values: 8, 5
+                          
+Time: 2013-02-27 10:06:52
+counter.vi: change in count value.
+count values: 8, 6
+                          
+Time: 2013-02-27 10:07:02
+counter.vi: change in count value.
+count values: 10, 7
+                          
+Time: 2013-02-27 10:07:06
+counter.vi: change in count value.
+count values: 12, 8
+                          
+Time: 2013-02-27 10:07:11
+counter.vi: change in count value.
+count values: 13, 9
+                          
+Time: 2013-02-27 10:07:15
+counter.vi: change in count value.
+count values: 14, 11
+                          
+Time: 2013-02-27 10:07:20
+counter.vi: change in count value.
+count values: 15, 11
+                          
+Time: 2013-02-27 10:10:33
+counter.vi: change in count value.
+count values: 15, 13
+                          
+Time: 2013-02-27 10:10:38
+counter.vi: change in count value.
+count values: 15, 14
+                          
+Time: 2013-02-27 10:10:51
+counter.vi: change in count value.
+count values: 16, 14
+                          
+Time: 2013-02-27 10:11:00
+counter.vi: change in count value.
+count values: 16, 15
+                          
+Time: 2013-02-27 10:11:05
+counter.vi: change in count value.
+count values: 17, 15
+                          
+Time: 2013-02-27 10:11:09
+counter.vi: change in count value.
+count values: 19, 15
+                          
+Time: 2013-02-27 10:21:17
+counter.vi: change in count value.
+count values: 19, 16
+                          
+Time: 2013-02-27 10:21:21
+counter.vi: change in count value.
+count values: 22, 17
+                          
+Time: 2013-02-27 10:28:05 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 10:49:02
+counter.vi: change in count value.
+count values: 51, 50
+                          
+Time: 2013-02-27 10:49:11
+counter.vi: change in count value.
+count values: 52, 51
+                          
+Time: 2013-02-27 10:49:15
+counter.vi: change in count value.
+count values: 52, 52
+                          
+Time: 2013-02-27 10:49:20
+counter.vi: change in count value.
+count values: 53, 52
+                          
+Time: 2013-02-27 10:50:35 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 10:52:39 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:12:01 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:15:09 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:15:32 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:17:58 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:21:34 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:25:27 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:32:02 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:39:55 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:42:09 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 11:44:21 
+Access to the web-interface. 
+IP address: 130.237.43.248 
+
+Time: 2013-02-27 12:10:23
+counter.vi: change in count value.
+count values: 54, 54
+                          
+Time: 2013-02-27 12:11:12
+counter.vi: change in count value.
+count values: 54, 56
+                          
+Time: 2013-02-27 12:51:38 
+Access to the web-interface. 
+IP address: 130.237.43.57 
+
+Time: 2013-02-27 13:39:51
+counter.vi: change in count value.
+count values: 55, 56
+                          
+Time: 2013-02-27 13:41:21
+counter.vi: change in count value.
+count values: 55, 57
+                          
+Time: 2013-02-27 13:41:26
+counter.vi: change in count value.
+count values: 57, 59
+                          
+Time: 2013-02-27 13:42:06
+counter.vi: change in count value.
+count values: 57, 60
+                          
+Time: 2013-02-27 14:17:42
+counter.vi: change in count value.
+count values: 58, 60
+                          
+Time: 2013-02-27 15:42:00
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 4002
+                          
+Time: 2013-02-27 15:42:46
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 4006
+                          
+Time: 2013-02-27 15:45:59
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 4028
+                          
+Time: 2013-02-27 15:46:39
+counter.vi: change in count value.
+count values: 67, 67
+                          
+Time: 2013-02-27 15:49:13
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 4038
+                          
+Time: 2013-02-27 15:49:58
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: HVAC-RT-990.s3.kth.se
+Remote Port: 4042
+                          
+Time: 2013-02-27 16:08:26
+counter.vi: change in count value.
+count values: 67, 68
+                          
+Time: 2013-02-27 16:09:47
+counter.vi: change in count value.
+count values: 67, 69
+                          
+Time: 2013-02-27 16:09:56
+counter.vi: change in count value.
+count values: 70, 70
+                          
+Time: 2013-02-27 16:10:32
+counter.vi: change in count value.
+count values: 70, 71
+                          
+Time: 2013-02-27 16:10:36
+counter.vi: change in count value.
+count values: 70, 72
+                          
+Time: 2013-02-27 16:10:41
+counter.vi: change in count value.
+count values: 71, 72
+                          
+Time: 2013-02-27 16:14:21
+counter.vi: change in count value.
+count values: 72, 72
+                          
+Time: 2013-02-27 16:14:26
+counter.vi: change in count value.
+count values: 73, 72
+                          
+Time: 2013-02-27 16:24:16
+counter.vi: change in count value.
+count values: 73, 73
+                          
+Time: 2013-02-27 16:24:20
+counter.vi: change in count value.
+count values: 74, 73
+                          
+Time: 2013-02-27 16:24:38
+counter.vi: change in count value.
+count values: 74, 74
+                          
+Time: 2013-02-27 16:27:38
+counter.vi: change in count value.
+count values: 74, 75
+                          
+Time: 2013-02-27 16:28:01
+counter.vi: change in count value.
+count values: 76, 75
+                          
+Time: 2013-02-27 16:31:34 
+Access to the web-interface. 
+IP address: 130.237.50.30 
+
+Time: 2013-02-27 16:35:55 
+Access to the web-interface. 
+IP address: 130.237.50.30 
+
+Time: 2013-02-27 17:07:41
+counter.vi: change in count value.
+count values: 76, 76
+                          
+Time: 2013-02-27 17:14:41
+counter.vi: change in count value.
+count values: 76, 77
+                          
+Time: 2013-02-27 17:18:57
+counter.vi: change in count value.
+count values: 78, 77
+                          
+Time: 2013-02-27 17:54:11
+counter.vi: datasocket error.
+                          
+Time: 2013-02-27 18:20:14
+counter.vi: datasocket error.
+                          
+Time: 2013-02-27 18:29:54
+counter.vi: datasocket error.
+                          
+Time: 2013-02-27 18:50:11
+counter.vi: datasocket error.
+                          
+Time: 2013-02-27 18:56:18
+counter.vi: datasocket error.
+                          
+Time: 2013-02-27 18:58:18
+mote.vi: Error in SF
+                          
+Time: 2013-02-27 18:58:19
+counter.vi: datasocket error.
+                          
+Time: 2013-02-27 18:58:21
+database.vi: Error in receiving data from mote.vi
+                          
+Time: 2013-02-27 18:58:23
+counter.vi: datasocket error.
+                          
+Time: 2013-02-27 18:58:23
+database.vi: Error in receiving data from counter.vi
+                          
+Time: 2013-02-27 18:58:25
+database.vi: Error in receiving data from plc.vi
+                          
+Time: 2013-02-27 19:01:42
+counter.vi: change in count value.
+count values: 82, 81
+                          
+Time: 2013-02-27 19:02:54
+counter.vi: change in count value.
+count values: 82, 82
+                          
+Time: 2013-02-27 19:06:32
+counter.vi: change in count value.
+count values: 83, 84
+                          
+Time: 2013-02-27 19:06:41
+counter.vi: change in count value.
+count values: 84, 84
+                          
+Time: 2013-02-27 19:06:50
+counter.vi: change in count value.
+count values: 84, 85
+                          
+Time: 2013-02-27 19:12:37
+counter.vi: change in count value.
+count values: 85, 85
+                          
+Time: 2013-02-27 19:12:46
+counter.vi: change in count value.
+count values: 85, 86
+                          
+Time: 2013-02-27 21:51:58
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: 213.103.190.121
+Remote Port: 51680
+                          
+Time: 2013-02-27 21:53:35
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: 213.103.190.121
+Remote Port: 51695
+                          
+Time: 2013-02-27 22:00:46
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: 213.103.190.121
+Remote Port: 51713
+                          
+Time: 2013-02-27 22:01:38
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: 213.103.190.121
+Remote Port: 51715
+                          
+Time: 2013-02-27 22:02:03
+real_control.vi: A client connected to the HVAC system.
+Username: jose
+Remote Address: 213.103.190.121
+Remote Port: 51716
+                          
+Time: 2013-02-27 22:03:25
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51722
+                          
+Time: 2013-02-27 22:03:48
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51755
+                          
+Time: 2013-02-27 22:06:52
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51855
+                          
+Time: 2013-02-27 22:08:32
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51875
+                          
+Time: 2013-02-27 22:13:06
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51902
+                          
+Time: 2013-02-27 22:13:36
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51904
+                          
+Time: 2013-02-27 22:14:04
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51906
+                          
+Time: 2013-02-27 22:24:59
+real_control.vi: A client connected to the HVAC system.
+Username: lin
+Remote Address: 213.103.190.121
+Remote Port: 51942
+                          
