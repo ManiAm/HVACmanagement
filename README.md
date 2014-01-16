@@ -17,7 +17,7 @@ NesC: to program wireless sensor motes using TinyOS
 
 C#: to program the people counter device
 
-Html, CSS, JavaScript, Php: for web development
+Html, CSS, JavaScript, php: for web development
 
 
 Data Collection (Sensing)
@@ -25,13 +25,13 @@ Data Collection (Sensing)
 
 We collect different data from the testbed like temperature, humidity, light, co2 level, occupancy, etc. We get this data from 4 different sources:
 
-*Source 1:* We are getting the temperature, co2 level and binary motion from the sensors that were built-in to the building from the start by Academiska Hus. An OPC client/server was used to collect data from PLCs.
+**Source 1:** We are getting the temperature, co2 level and binary motion from the sensors that were built-in to the building from the start by Academiska Hus. An OPC client/server was used to collect data from PLCs.
 
-*Source 2:* We deployed a 'wireless sensor network' consisting of around 16 motes in the water tank lab and collect T, H, CO2, light level in different locations of the room. Motes were programmed accordingly to collect these data and send them to a base station (Collection Tree Protocol was used for this purpose).
+**Source 2:** We deployed a 'wireless sensor network' consisting of around 16 motes in the water tank lab and collect T, H, CO2, light level in different locations of the room. Motes were programmed accordingly to collect these data and send them to a base station (Collection Tree Protocol was used for this purpose).
 
-*Source 3:* We installed a people counter in the water tank lab to measure the occupancy, we can say how many people enters or goes out of the room. We used the provided official API, and write a C# program to communicate with the people counter.
+**Source 3:** We installed a people counter in the water tank lab to measure the occupancy, we can say how many people enters or goes out of the room. We used the provided official API, and write a C# program to communicate with the people counter.
 
-*Source 4:* We also receive the hourly 5-day weather forecast from the internet. We use a well-known online weather forecast web-site to read the weather data in XML format. Then we parse the received XML file and extract out desired parameters.
+**Source 4:** We also receive the hourly 5-day weather forecast from the internet. We use a well-known online weather forecast web-site to read the weather data in XML format. Then we parse the received XML file and extract out desired parameters.
 
 We put aside a powerful computer (HVAC-PC) and created a centralized SQLite database that collects data from 4 sources above.
 
